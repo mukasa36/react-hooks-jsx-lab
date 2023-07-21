@@ -1,7 +1,7 @@
 import React from "react";
 import { name, city } from "../data/data.js";
 
-const user ={name,city}
+
 console.log(name,city)
 
 function Home() {
